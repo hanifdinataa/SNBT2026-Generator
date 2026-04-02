@@ -47,7 +47,7 @@ repo-root/
 - `index.html` -> halaman utama SNBT generator
 - `js_snbt.js` -> logic input, popup custom, action tombol, generate + auto-hide menu mobile
 - `css-snbt.css` -> styling kartu hasil SNBT
-- `../snbp-fake/logo-snpmb.png` -> logo pada header hasil (diambil dari folder snbp-fake)
+- `logo-home.png` -> logo pada header hasil
 - `image.png` -> favicon
 
 ## Menjalankan Secara Lokal
